@@ -1,49 +1,67 @@
 # Desgen
-We are trying to develop innovative designs through lastest UI/UX technologies. Most of the open source organisation and platforms have Web development, Android Development, ML etc, but ever wonder any organization or project which is completely dedicated to solving real world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
-
-Here we provide a platform to learn and build innovative solutions for such problem. We love to brainstorm and come up with different techniques and approaches to design problems which we face in our day-to-day basis.
+Desgen is an open source project dedicated to develop innovative designs through the latest UX/UI technologies to sketch your ideas onto the latest devices and platforms.
+Most of the open-source organization and platforms have Web development, Android Development, ML, etc, but ever wonder any organization or project which is completely dedicated to solving real-world problems related to UI? Think about designing a wireless garden management system, or a smart video management system!!
+In Desgen we have a mission to bring meaningful changes in people's lives, we thrive every day to enable simpler solutions to the most complicated challenges. <br>
+# We Believe:-
+* Everyone is creative.
+* Innovation starts with people.
+* Technology moves fast, human needs change slowly.
+* Creative organizations are more agile.
+.<br>
+# Our Approach
+* We find out which designs work best by studying real users around the world as they interact with actual websites and applications.
+* We believe it is more important to rely on what users actually do, rather than what they say they do.<br>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://dribbble.com/Desgen)&nbsp;
-[![Discord](https://user-images.githubusercontent.com/71998138/105862232-911b5780-6015-11eb-8eeb-53b03fcffa74.png)](https://discord.com/invite/nhRVW5GXFV)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://github.com/awantika10/Desgen/)&nbsp;
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dribbble.com/Desgen)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nhRVW5GXFV)&nbsp;
 
-
-
-
-> **You can view the demo [here](https://dribbble.com/Desgen).**
+> **You can view the website  [here](https://dribbble.com/Desgen).**
 
 ![Desgngit](https://user-images.githubusercontent.com/71998138/105863985-777b0f80-6017-11eb-9068-6f5c205ef550.PNG)
 
 
 ## Tech Stack
-- **Frontend:** HTML/CSS/Figma/AdobeXD/Illustrator/Framer/Anima
+- **Frontend:**  
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img alt="" src="https://img.shields.io/badge/Framer%20-%23black.svg?&style=for-the-badge&logo=Framer&logoColor=black" alt="Framer"/> <img alt="" src="https://img.shields.io/badge/anima%20-%23black.svg?&style=for-the-badge&logo=anima&logoColor=white" alt="anima"/>
 
 ## Open Source Contests
  
-- ### GirlScript Summer of Code 2021
+- ### GirlScript Summer of Code 2021 
 
 About
-GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. 
+GirlScript Summer of Code is the 3 month-long Open Source program during summers conducted by GirlScript Foundation, started in 2018, intending to help beginners get started with Open Source Development while encouraging diversity.
 > **NOTE:** All the contributions to be counted under GSSOC should be made to the `gssoc` branch. 
 > Please commit the designs and make a PR for each design.
 <div >
 <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" alt="gssoc" height="200" />
   </div>
 
-# Mentors
+# Mentors 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/awantika10/Desgen/) 
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
 | [@weebo-ary](https://github.com/weebo-ary)            | Design + Documentation     |
 | [@awantika10](https://github.com/awantika10/)         | Design                     |
+| [@SHITIZ-AGGARWAL](https://github.com/SHITIZ-AGGARWAL)| Design + Website           |
+| [@Shaurya Bhandari](https://github.com/ShauryaBhandari)| Website                    |
 
-## Quick Start
+## Contributing guidelines  
 
-- Fork and Clone the repo using
-```
-git clone https://github.com/awantika10/Desgen/.git
-cd Desgen
+  * Go through [contributing.md](https://github.com/awantika10/Desgen/blob/gssoc/Contribution/CONTRIBUTING.md) file thoroughly
 
-Make a separate folder with your name and add <your_name.html > and <your_name.svg> in the same folder. For sample HTML code check `contributing.html`
+## 🌟 Contributors 
+
+Thanks to these wonderful people ✨✨:
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/awantika10/Desgen/graphs/contributors">
+  				<img src="https://contrib.rocks/image?repo=awantika10/Desgen" />
+			</a>
+		</td>
+	</tr>
+</table>
